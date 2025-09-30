@@ -7,7 +7,7 @@ namespace ToDoList
     {
         static void Main()
         {
-            string file = "test.txt";
+            string file = "test.txt"; // any file name for saving notes
 
             string directory = ChoosingPath();
           
